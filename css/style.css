@@ -99,9 +99,7 @@ body{
 }
 
 @media(max-width:500px){
-    .header::after{
-        height: 100vh;
-    }
+   
     .header-content{
         top: 10%;
         margin-top: 80px;
