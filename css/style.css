@@ -99,10 +99,12 @@ body{
 }
 
 @media(max-width:500px){
-   
+    .header::after{
+        height: 80vh;
+    }
     .header-content{
         top: 10%;
-        margin-top: 80px;
+        margin-top: 70px;
     }
     
     .grid-3, .grid-2{
