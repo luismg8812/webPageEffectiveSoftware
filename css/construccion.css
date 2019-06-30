@@ -1,0 +1,13 @@
+body{
+    content: '';
+ height: 100vh;
+ width: auto;
+ background-image: url(../img/Sitio_en_Construcción.png);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ display: block;
+ filter: blur(10px);
+ -webkit-filter: blur(10px);
+ transition: all 1000ms;
+}
